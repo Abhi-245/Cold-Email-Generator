@@ -1,0 +1,3 @@
+App/venv/
+App/.env
+*.ipynb
